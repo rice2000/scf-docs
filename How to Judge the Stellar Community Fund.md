@@ -10,7 +10,9 @@ The panel will handle narrowing the field of SCF round submissions down to a fin
 
 ## Who are the Panel Judges?
 The panel judges are the members of the `scf_panel` Keybase team, a roughly 50 person mix of SDF and key Stellar community members. From this pool of judges 10-person selections will form individual round jury pools, each of which will be made up of 4 SDF employees and 6 community participants. Unlike actual jury pools however participation will be voluntary in any given round. If you are selected and opt out names will be drawn again until a full team is assembled. Selection will happen via Keybase’s `/flip` command.
+
 ![](http://tyler.link/6NlLD9+)
+
 If you’re one of the top 4 in an SDF flip or top 6 in a Community flip you’re in for that round.
 
 Finally if you’re a Community judge who would like to participate in either the Seed or Lab fund you’re more than welcome to though obviously you won’t be a judge in your own round, we’ll just exclude you from that flip.
