@@ -18,7 +18,7 @@ Voting in the SCF happens via a mechanism we call flaggable quadratic voting or 
 
 Community voting in the past has been one-dimensional, and tends towards a linear distribution that makes it impossible to recognize — either positively or negatively — exceptional projects. Quadratic voting adds velocity to votes, which better captures community sentiment and enables the community to police bad actors, thwart manipulation while still rewarding those projects they deem most exceptional.
 
-It may sound complicated but we built a test quadratic voting interface and it's actually pretty intuitive. [Try it out](https://quadratic-voting.now.sh).
+It may sound complicated but we built a test quadratic voting interface and it's actually pretty intuitive. [Try it out](https://fqv.vercel.app).
 
 Once you’ve got a bit of a grip on what FQV is trying to achieve the actual process for voting is quite straight forward. When you first land on the homepage with all the eligible projects you’re given 100 credits to divvy up amongst the projects as you see fit. As you vote successively on a single project your credits will be spent quadratically. 1 vote = 1 spent credit, 2 votes = 4 credits, and so on and so forth all the way up to a max of, if you only voted on a single project, you could vote 10 times spending all 100 credits. 
 
