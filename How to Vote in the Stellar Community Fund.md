@@ -1,17 +1,17 @@
 # How to Vote in the Stellar Community Fund
 
-## How to Login
+## First Let’s Login
 Let’s talk about how voting works in the Stellar Community Fund. It’s a little fancy but it should be easy and fun once you get the hang of it.
 
 First off all voters must be registered with the voting site via a phone number which can receive SMS messages from the Twilio service.
 
-> We don’t store raw phone numbers in any database, these numbers are cryptographically hashed as a fingerprint for your account but you keep the finger. Wait… no yeah that analogy works. Right? Security is important, but so is a fair voting environment, with this we aim to achieve both.
+**_We don’t store raw phone numbers in any database, these numbers are cryptographically hashed as a fingerprint for your account but you keep the finger. Wait… no yeah that analogy works. Right? Security is important, but so is a fair voting environment, with this we aim to achieve both._**
 
 To begin simply “Login“ with your phone number and the code which is sent via SMS to your device.
 
 Once logged in you’ll be ready to vote!
 
-> Public community voting is only open for a set period of time for each round so ensure it’s the right time for the round you’re attempting to vote in.
+**_ Public community voting is only open for a set period of time for each round so ensure it’s the right time for the round you’re attempting to vote in. _**
 
 ## How to Vote
 Voting in the SCF happens via a mechanism we call flaggable quadratic voting or FQV. It’s a system of credit allocation which allows voters to indicate preference intensity.
