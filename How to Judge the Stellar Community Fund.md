@@ -29,4 +29,4 @@ Be objective, be realistic, be understanding, be respectful. Remember and realiz
 Judging will happen on the same site and in the same format as community voting, via [communityfund.stellar.org](http://communityfund.stellar.org/) with the only difference being you must login with your Keybase account rather than a phone number. [How to Vote in the Stellar Community Fund](#)
 
 ## Questions?
-As you have questions feel free to ask in the `scf_panel` Keybase group or DM `tyvdh` or `kolten`. This is a community initiative so while I may publish the draft it’s up to all of us to contribute to the final product. 
+As you have questions feel free to ask in the `scf_panel` Keybase group or DM `tyvdh` or `kolten`. This is a community initiative so while we may publish the draft it’s up to all of us to contribute to the final product. 
