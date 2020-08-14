@@ -11,7 +11,7 @@ To begin simply “Login“ with your phone number and the code which is sent vi
 
 Once logged in you’ll be ready to vote!
 
-**_ Public community voting is only open for a set period of time for each round so ensure it’s the right time for the round you’re attempting to vote in. _**
+**_Public community voting is only open for a set period of time for each round so ensure it’s the right time for the round you’re attempting to vote in._**
 
 ## How to Vote
 Voting in the SCF happens via a mechanism we call flaggable quadratic voting or FQV. It’s a system of credit allocation which allows voters to indicate preference intensity.
