@@ -7,7 +7,7 @@ There are two community funds available for entry, the “Seed” and “Lab” 
 
 ### The Lab Fund
 #### Goal
-To inspire experimental use cases, open-source software, documentation, events, market presence, and real-world stress tests.  The Lab Fund will also serve as an onramp into the Seed Fund.
+To inspire experimental use cases, open-source software, documentation, events, market presence, and real-world stress tests.
 
 #### Structure
 - 4 times per year, 500,000 XLM is split between ~12 projects
@@ -18,6 +18,8 @@ To inspire experimental use cases, open-source software, documentation, events, 
 
 #### Qualifications
 This fund is an entry point for exploration and discovery.  It's designed to encourage and support wide and varied ecosystem experimentation, and will have lower prize amounts, higher frequency, and more entrants than the Seed Fund. The bar for eligibility is therefore quite low: use, talk about, or showcase Stellar in some way and you’re welcome to participate. There’s a nomination panel to filter out ineligible entries and to select the ~12 best for the final community vote, but the idea is all are welcome to try and keep trying.
+
+The Lab Fund is a fund for work completed or proven not for a promise of future work. There should be a live element to your entry or a history demonstrating your ability and qualification to carry out your intentions.
 
 ### The Seed Fund
 #### Goal
@@ -105,6 +107,10 @@ While this is a community fund, the SDF retains the right to disqualify entries 
 Engaging in vote manipulation will cause your proposal to be disqualified. This includes botspam, fake/sock puppet accounts, and brigading. Participants who leverage sockpuppet accounts to submit proposals, friends to submit proposals, or any similar “act of bad faith” will be disqualified. SDF has the right to withhold awards from participants who have abused these eligibility requirements.
 
 Participants who create fake accounts to bypass the above rules will be disqualified. This is regardless of whether or not they win a round.
+
+What we're looking for is organic, genuine interest and discussion around your project. Foster and encourage that. Be kind and supportive to your fellow competitors.
+
+Please feel free to share direct entry links with your own community but please don’t mass-message strangers or attempt to "game" the system in any way.  People should upvote things they genuinely like or find interesting, not because they were peer pressured or incentivized to do so.
 
 If you suspect foul play and would like SDF to investigate, or if you have suggestions for future rounds of the community fund, please [fill out this form](https://stellarform.typeform.com/to/wIaj2S). 
 
