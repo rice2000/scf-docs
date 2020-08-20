@@ -20,7 +20,7 @@ First and foremost, familiarize yourself with the [Stellar Community Fund Partic
 
 Judging an SCF round is a serious task, and while we aren’t asking for unreasonable time commitments, we do expect you to be thoughtful and responsible, and to give entries due consideration.  If you don’t have the brain or time bandwidth for a given round, please opt out.
 
-Be objective, be realistic, be understanding, and be respectful. Make sure to take the differences between the Seed and Lab funds into account when judging. Act as a mentor, ask questions, and suggest improvements. We've built in a lot of time for review, so pace yourself, and make sure to discuss projecwith entrants and fellow judges. The goal is to build relationships and foster success. A new best friend, colleague, or partner may be right on the other side of your screen.
+Be objective, be realistic, be understanding, and be respectful. Make sure to take the differences between the Seed and Lab funds into account when judging. Act as a mentor, ask questions, and suggest improvements. We've built in a lot of time for review, so pace yourself, and make sure to discuss project with entrants and fellow judges. The goal is to build relationships and foster success. A new best friend, colleague, or partner may be right on the other side of your screen.
 
 Judging takes place on the same site and in the same format as community voting, via [communityfund.stellar.org](http://communityfund.stellar.org/)/. The only difference ist that you must log in with your Keybase account rather than a phone number. [How to Vote in the Stellar Community Fund](#)
 
