@@ -110,7 +110,7 @@ Participants who create fake accounts to bypass the above rules will be disquali
 
 What we're looking for is organic, genuine interest and discussion around your project. Foster and encourage that. Be kind and supportive to your fellow competitors.
 
-Please feel free to share direct entry links with your own community, but please don’t mass message strangers or attempt to "game" the system in any way.  People should upvote projects because the genuinely like them or find them interesting, not because they're peer pressured or incentivized to do so.
+Please feel free to share direct entry links with your own community, but please don’t mass message strangers or attempt to "game" the system in any way.  People should upvote projects because they genuinely like them or find them interesting, not because they're peer pressured or incentivized to do so.
 
 If you suspect foul play and would like SDF to investigate or have suggestions for future rounds of the community fund, please [fill out this form](https://stellarform.typeform.com/to/wIaj2S). 
 
